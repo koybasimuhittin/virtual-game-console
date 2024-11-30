@@ -59,7 +59,6 @@ void handle_exit() {
         free(temp);
     }
 
-    printf("\nGame exited gracefully.\n");
     exit(0);
 }
 

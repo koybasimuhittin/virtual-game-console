@@ -69,7 +69,6 @@ void enableRawMode() {
 
 void handle_exit() {
     disableRawMode();
-    printf("\nGame exited gracefully.\n");
     exit(0);
 }
 
