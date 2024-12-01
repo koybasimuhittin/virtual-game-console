@@ -1,0 +1,4 @@
+game_*
+*.o
+*.out
+bin/
